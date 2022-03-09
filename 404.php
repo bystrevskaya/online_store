@@ -17,7 +17,7 @@
         </div>
     </main>
     <footer>
-        <button class="backbutton"  onClick='location.href="http://store/index.php"'>Назад</button>
+        <button class="backbutton"  onClick='location.href="http://store/index.php"'>На главную</button>
     </footer>
 </body>
 </html>
